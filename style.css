@@ -1,0 +1,55 @@
+#part1{max-width:100%}
+#part1 {background:url("img/app.jpg");height:800px}
+.left_1{height:200px;width:400px;background:black;color:#fff;float:left;margin:300px 0px 0px 50px;border-radius:10px}
+.left_1 h2{text-align:center;border-bottom:1px solid #fff;padding:10px}
+.left_1 h3{text-align:center;}
+.left_1 button{background:green;color:#fff;height:50px;width:340px;margin-left:30px;font-size:20px;}
+.right_1 button{float:right;background:black;color:#fff;height:50px;width:125px;margin:320px 25px 0px 0px;font-size:20px;border-radius:5px;}
+#part2{max-width:100%}
+.left_2{max-width:65%;height:400px;margin-left:20px;}
+.left_2 h1{font-size:65px;}
+.left_2 h2{font-size:55px;color:green;margin-top:-30px}
+.left_2 p{font-size:20px;}
+.left_2 span{font-size:30px;}
+.left_2 button{height:40px;width:250px;background:#f1f1f1;color:black;font-size:16px;margin-top:50px;}
+.left_2 h3{margin-top:50px}
+.right_2{float:right;margin-top:-380px;margin-right:20px}
+#part3{margin-top:200px;background:#f1f1f1;max-width:100%;height:550px}
+.left_3 img{margin-top:50px;margin-left:20px}
+.right_3{float:right;max-width:65%;margin-top:-500px}
+.right_3 h1{font-size:65px;}
+.right_3 h2{font-size:55px;color:red;margin-top:-30px}
+.right_3 p{font-size:20px;}
+.right_3 span{font-size:30px;}
+.right_3 button{height:40px;width:250px;background:#f1f1f1;color:black;font-size:16px;margin-top:50px;}
+.right_3 h3{margin-top:50px}
+#part4{height:600px;background:#616161}
+.header{padding:10px}
+.header h1{text-align:center;color:#fff;font-size:75px}
+.header h3{text-align:center;color:#fff;margin-top:-35px}
+.mrgn{margin-left:175px}
+.row{color:#fff;padding:80px 250px 0px 0px;font-size:20px}
+#part5{margin-top:80px;height:600px}
+.header2{text-align:center}
+.header2 h1{font-size:80px}
+.header2 h2{margin-top:-30px}
+.left_4{width:50%;margin-top:50px}
+.left_4 ul{}
+.left_4 ul li{list-style-type:none;font-size:25px;border-bottom:1px solid black;padding:15px 0px 15px 0px;text-align:center}
+.button{background:#f1f1f1;height:80px;width:629px}
+.button button{background:black;color:#fff;height:50px;width:140px;font-size:18px;margin:15px 0px 0px 250px;}
+.right_4{margin-top:-471px;float:right}
+.right_4 ul li{list-style-type:none;font-size:25px;border-bottom:1px solid black;padding:15px 0px 15px 0px;text-align:center}
+
+
+
+
+
+
+
+
+
+
+
+
+
